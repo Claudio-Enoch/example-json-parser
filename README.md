@@ -1,10 +1,10 @@
-# Example Json Parser app with tests
-Python project to demonstrate a simple app creation and testing approach.  
+# Example JSON parsing app with tests
+Python project to demonstrate simple app creation and testing approach.  
 
 ### Getting Started
 - install python3.8+  
 - install requirements `pip install -r requirements.txt`
-- run `python -m pytest -v tests`
+- run tests `python -m pytest -v tests`
 
 ### Framework 
 **json_parser/** contains the JSON parsing function `json_parser` and helper class.  
